@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Doseong Kim
 
 <p align="center">
-  🌱 Recently, I've become really interested in React and React Native  
+  🌱 Recently, I've become really interested in React and React Native <br>
   🔭 Currently learning and exploring Frontend & Mobile development
 </p>
 
