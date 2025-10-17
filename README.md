@@ -39,8 +39,3 @@
 </p>
 
 
----
-
-## 💬 About Me
-- 👯 Looking to collaborate on Frontend & Mobile projects  
-- 🌱 Exploring React / React Native and learning state management tools like Redux and Zustand
