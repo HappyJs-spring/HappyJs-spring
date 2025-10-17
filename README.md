@@ -1,4 +1,11 @@
-## Hi 👋
+## Hi 👋, I'm Doseong Kim
+
+<p align="center">
+  🌱 Recently, I've become really interested in **React** and **React Native**  
+  🔭 Currently learning and exploring **Frontend & Mobile development**
+</p>
+
+---
 
 ## 🛠 Tech Stack
 
@@ -23,15 +30,17 @@
   <img src="https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logoColor=white" />
 </p>
 
+---
 
-
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyJs-spring" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyJs-spring" alt="Top Languages" />
   </a>
 </p>
 
-- 🔭 I’m currently learning React / React Native 
-- 🌱 Recently, I've become really interested in React and React Native
-- 👯 I’m looking to collaborate on Fronted & Mobile projects
+---
 
+## 💬 About Me
+- 👯 Looking to collaborate on **Frontend & Mobile projects**  
+- 🌱 Exploring **React / React Native** and learning state management tools like **Redux** and **Zustand**
