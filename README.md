@@ -1,7 +1,8 @@
 ## Hi 👋
 
-
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyJs-spring)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 <!--
 **HappyJs-spring/HappyJs-spring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
