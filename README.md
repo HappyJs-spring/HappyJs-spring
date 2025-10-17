@@ -1,8 +1,8 @@
-## Hi 👋, I'm Doseong Kim
+## Hi, I'm Doseong Kim 👋
 
 <p align="center">
   🌱 Recently, I've become really interested in React and React Native <br>
-  🔭 Currently learning and exploring Frontend & Mobile development
+  🌱 Currently learning and exploring Frontend & Mobile development
 </p>
 
 ---
@@ -42,5 +42,5 @@
 ---
 
 ## 💬 About Me
-- 👯 Looking to collaborate on **Frontend & Mobile projects**  
-- 🌱 Exploring **React / React Native** and learning state management tools like **Redux** and **Zustand**
+- 👯 Looking to collaborate on Frontend & Mobile projects  
+- 🌱 Exploring React / React Native and learning state management tools like Redux and Zustand
